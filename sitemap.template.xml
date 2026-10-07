@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/sommet</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/sommet" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/summit" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/summit" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/sommet" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/summit</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/sommet" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/summit" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/summit" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/sommet" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/summit</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/sommet" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/summit" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/summit" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/sommet" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/pourquoi-participer</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/pourquoi-participer" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/why-attend" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/why-attend" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/pourquoi-participer" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/why-attend</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/pourquoi-participer" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/why-attend" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/why-attend" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/pourquoi-participer" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/why-attend</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/pourquoi-participer" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/why-attend" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/why-attend" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/pourquoi-participer" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/programme</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/programme" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/programme" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/programme" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/programme" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/programme</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/programme" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/programme" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/programme" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/programme" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/programme</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/programme" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/programme" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/programme" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/programme" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/intervenants</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/intervenants" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/speakers" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/speakers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/intervenants" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/speakers</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/intervenants" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/speakers" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/speakers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/intervenants" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/speakers</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/intervenants" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/speakers" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/speakers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/intervenants" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/opportunites</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/opportunites" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/opportunities" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/opportunities" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/opportunites" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/opportunities</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/opportunites" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/opportunities" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/opportunities" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/opportunites" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/opportunities</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/opportunites" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/opportunities" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/opportunities" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/opportunites" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/sponsoring</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/sponsoring" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/sponsorship" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/sponsorship" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/sponsoring" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/sponsorship</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/sponsoring" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/sponsorship" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/sponsorship" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/sponsoring" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/sponsorship</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/sponsoring" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/sponsorship" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/sponsorship" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/sponsoring" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/inscription</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/inscription" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/registration" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/registration" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/inscription" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/registration</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/inscription" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/registration" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/registration" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/inscription" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/registration</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/inscription" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/registration" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/registration" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/inscription" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/informations-pratiques</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/informations-pratiques" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/practical-info" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/practical-info" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/informations-pratiques" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/practical-info</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/informations-pratiques" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/practical-info" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/practical-info" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/informations-pratiques" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/practical-info</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/informations-pratiques" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/practical-info" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/practical-info" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/informations-pratiques" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/actualites</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/actualites" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/news" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/news" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/actualites" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/news</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/actualites" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/news" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/news" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/actualites" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/news</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/actualites" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/news" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/news" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/actualites" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/medias</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/medias" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/media" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/media" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/medias" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/media</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/medias" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/media" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/media" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/medias" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/media</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/medias" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/media" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/media" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/medias" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/partenaires</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/partenaires" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/partners" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/partners" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/partenaires" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/partners</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/partenaires" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/partners" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/partners" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/partenaires" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/partners</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/partenaires" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/partners" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/partners" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/partenaires" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/faq</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/faq" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/faq" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/faq</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/faq" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/faq" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/faq</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/faq" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/faq" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/contact</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/contact" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/contact" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/contact" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/contact" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/contact</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/contact" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/contact" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/fr/espace-participant</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/espace-participant" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/participant-area" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/participant-area" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/espace-participant" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/en/participant-area</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/espace-participant" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/participant-area" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/participant-area" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/espace-participant" />
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/zh/participant-area</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{{SITE_ORIGIN}}/fr/espace-participant" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{SITE_ORIGIN}}/en/participant-area" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{SITE_ORIGIN}}/zh/participant-area" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{SITE_ORIGIN}}/fr/espace-participant" />
+  </url>
+</urlset>

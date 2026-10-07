@@ -1,0 +1,10 @@
+{
+  "name": "Simandou Mining Summit 2026",
+  "short_name": "SMS 2026",
+  "description": "L’exploitation minière, moteur de la diversification économique",
+  "start_url": "/fr",
+  "display": "standalone",
+  "background_color": "#061B24",
+  "theme_color": "#008F6A",
+  "icons": [{ "src": "/assets/brand/simandou-symbol.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

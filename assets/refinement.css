@@ -1,0 +1,20 @@
+/* Logos remain in the DOM, outside the WebGL postprocessing pipeline. */
+.site-header{min-height:112px;gap:18px;padding-top:0;padding-bottom:0;background:linear-gradient(180deg,rgba(2,9,13,.92),rgba(2,9,13,.65));grid-template-columns:auto 1fr auto}
+.site-header.is-solid{background:rgba(6,27,36,.97);color:#f8fbfa}
+.header-brand-lockup{display:flex;align-items:center;gap:8px;flex-shrink:0}
+.header-brand{width:174px;height:112px;overflow:visible;flex-shrink:0}
+.header-brand img{width:auto;height:auto;max-width:174px;max-height:112px;object-fit:contain;filter:none;mix-blend-mode:normal}
+.header-brand img.raster-fallback{max-height:64px}
+.header-destination{width:auto;height:auto;max-height:34px;max-width:78px;object-fit:contain;filter:none;mix-blend-mode:normal;background:#f5f3ec;border-radius:3px;padding:5px}
+.header-tools .button{font-size:12px}.language-menu a{font-size:13px}.desktop-nav{justify-self:center}
+.desktop-nav summary{font-size:12px}.site-header .nav-popover{color:#10252b}.site-header .language-menu{color:#f8fbfa}
+.mobile-destination{object-fit:contain;width:94px;height:auto;padding:7px;background:#f5f3ec;border-radius:3px}
+.official-booking{display:flex;flex-direction:column;gap:12px;margin-top:24px;line-height:1.5}.official-booking>a{font-size:14px}
+.world-sticky{pointer-events:none}.world-sticky canvas{pointer-events:none}
+@media(max-width:1250px){.desktop-nav{display:none}.site-header{display:flex;justify-content:space-between}.menu-trigger{display:flex}}
+@media(max-width:850px){.site-header{min-height:88px;gap:8px;padding-left:16px;padding-right:16px}.header-brand{width:132px;height:88px}.header-brand img{max-width:132px;max-height:88px}.header-destination{display:none}.header-tools{gap:6px}.header-tools .language-menu{display:flex}.language-menu a{padding:8px 5px;font-size:12px}.header-tools .button{display:none}.header-tools .motion-toggle{width:32px;min-width:32px}.menu-trigger{width:34px;min-width:34px}.hero-lockup img,.mobile-menu-head img{object-fit:contain}.hero-section{padding-top:122px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.site-root *{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+@media(max-width:1680px){.desktop-nav{display:none}.site-header{display:flex;justify-content:space-between}.menu-trigger{display:flex}}
+.language-menu{flex-shrink:0}.language-menu a{white-space:nowrap;flex-shrink:0}.header-tools{flex-shrink:0}
+.world-sticky:after{content:"";position:absolute;inset:0;z-index:3;pointer-events:none;background:linear-gradient(90deg,rgba(2,9,13,.76) 0%,rgba(2,9,13,.40) 36%,transparent 72%)}
+@media(max-width:850px){.world-sticky:after{background:linear-gradient(90deg,rgba(2,9,13,.78),rgba(2,9,13,.28))}}
