@@ -6,5 +6,5 @@
   "display": "standalone",
   "background_color": "#061B24",
   "theme_color": "#008F6A",
-  "icons": [{ "src": "/assets/brand/simandou-symbol.svg", "sizes": "any", "type": "image/svg+xml" }]
+  "icons": [{ "src": "/simandou-mining-summit-2026/assets/brand/simandou-symbol.svg", "sizes": "any", "type": "image/svg+xml" }]
 }
